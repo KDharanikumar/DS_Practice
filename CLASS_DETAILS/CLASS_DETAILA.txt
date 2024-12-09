@@ -6,4 +6,4 @@ Class - 18 - MongoDB
 Class - 19 - MongoDB
 Class - 20 - MongoDB
 Class - 21 - MongoDB and EDA - 1:30 to EDA Start  EDA Means Exploratory Data Analysis
-
+Class - 22 - 
