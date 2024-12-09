@@ -6,4 +6,6 @@ Class - 18 - MongoDB
 Class - 19 - MongoDB
 Class - 20 - MongoDB
 Class - 21 - MongoDB and EDA - 1:30 to EDA Start  EDA Means Exploratory Data Analysis
-Class - 22 - 
+Class - 22 - Min Median Theory and Statistics and Numpy Coding
+Class - 23 - Pandas - Numpy Analysis and Youtube Analysis Project Discussion
+Classs - 24 -
