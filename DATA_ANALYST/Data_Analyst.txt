@@ -1,0 +1,14 @@
+MATHEMATICS & STATISTICS - Mean, Median, Standard Deviation, Probability, Hypothesis Testing
+EXCEL - Functions, Charts, Pivot Tables
+SQL - Functions, Tables, Etc..
+PYTHON - Cleaning Data - Pandas, Numpy
+PYTHON - Visualation - Matplotlib, Seaborn, Plotly- Build Web App
+POWER BI - Complete
+MACHINE LEARNING - Tensor Flow, Scikit Learn
+BIG DATA - Apache Hadoop, Apache Spark
+GIT
+Z-Test & T-Test - Max Category Data 2
+Annova Test - More Than 2
+
+POWER BI Latest - Microsoft Fabrics
+Google - Lookup Studio
