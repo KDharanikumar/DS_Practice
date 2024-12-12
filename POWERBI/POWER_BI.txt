@@ -1,1 +1,11 @@
 POWER BI
+
+|----- DELIMITER -----|
+< --- | TEXT BEFORE DELIMETER | --- >
+ADD COLUMN ---> EXTRACT ---> TEXT BEFORE DELIMITER
+Delimiter Means - (-) Before and after values which we need to seperate that is called Delimiter EX: Dharan-Riya-Sumi here (-) is delimeter Set Delimiter 1 Means First Delimiter Skip Output is Dharan-Riya
+
+|----- REPLACE VALUES -----|
+< --- | REPLACE VALUES | --- >
+TRANSFORM ---> REPLACE VALUES ---> REPLACE VALUES
+REPLACE VALUES - Means Which Value to Find given first input then Replace which value in second input EX: Find Riya Replace with Riya1
