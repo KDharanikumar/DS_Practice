@@ -11,4 +11,4 @@ Class - 23 - Pandas - Numpy Analysis Statistical and discriptive and Youtube Ana
 Classs - 24 - Hypothesis Theroy and Z Test Coding Z - Test = One Sample, Two Sample, & T - Test = One Sample, Two Sample, Max or Paired
 Class - 25 - Hypothesis Testing & Matplotlib Visualation Just Start - 2:05
 Class - 26 - Matplotlib Visualation
-Classs - 27 -
+Classs - 27 - Matplotlib - Geoplat & Seaborn
