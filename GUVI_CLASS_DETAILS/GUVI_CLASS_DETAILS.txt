@@ -12,3 +12,4 @@ Classs - 24 - Hypothesis Theroy and Z Test Coding Z - Test = One Sample, Two Sam
 Class - 25 - Hypothesis Testing & Matplotlib Visualation Just Start - 2:05
 Class - 26 - Matplotlib Visualation
 Classs - 27 - Matplotlib - Geoplat & Seaborn
+Class - 28 - 
