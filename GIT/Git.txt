@@ -1,0 +1,11 @@
+GITHUB
+
+git config --global user.name &quot;Dharanikumar K&quot;
+git config --global user.email &quot;kdharanstarflit@gmail.com&quot;
+git init
+git add .
+git commit -m &quot;initial upload&quot;
+git branch -M main
+git remote add origin https://github.com/KDharanikumar/Addresss-Book-Server.git
+git remote add origin
+git push -u origin main
