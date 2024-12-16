@@ -13,4 +13,6 @@ Class - 25 - Hypothesis Testing & Matplotlib Visualation Just Start - 2:05
 Class - 26 - Matplotlib Visualation
 Classs - 27 - Matplotlib - Geoplat & Seaborn
 Class - 28 - Plotly
-Class - 29 -
+Class - 29 - Plotly Basic Call Back Function
+Class - 30 - Plotly & API Building
+Class - 31 - Outlier Analysis
