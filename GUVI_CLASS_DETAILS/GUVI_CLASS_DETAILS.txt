@@ -15,4 +15,5 @@ Classs - 27 - Matplotlib - Geoplat & Seaborn
 Class - 28 - Plotly
 Class - 29 - Plotly Basic Call Back Function
 Class - 30 - Plotly & API Building
-Class - 31 - Outlier Analysis
+Class - 31 - Outlier Analysis & Data Cleaning Methods - 1:43
+Class - 31 - Additiuonal Class - Data Cleaning Methods 
